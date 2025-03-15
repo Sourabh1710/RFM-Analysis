@@ -10,7 +10,7 @@ RFM Analysis is a widely used technique in the marketing domain to segment custo
 By calculating these metrics, I can gain valuable insights into customer patterns and behaviors.
 
 ## Dataset Requirements
-To perform RFM Analysis using Python, I need a dataset containing:
+To perform RFM Analysis using Python, I use a [dataset](https://statso.io/rfm-analysis-case-study/) containing:
 - **Customer IDs**
 - **Purchase Dates**
 - **Transaction Amounts**
