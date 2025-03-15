@@ -126,6 +126,6 @@ By implementing RFM Analysis, I can make data-driven decisions to enhance custom
 
 
 ## Author
-Sourabh Sonker
+Sourabh Sonker <br>
 Data Scientist
 
